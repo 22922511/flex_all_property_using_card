@@ -1,0 +1,1 @@
+# flex_all_property_using_card
