@@ -1,1 +1,3 @@
-# flex_all_property_using_card
+ flex_all_property_using_card
+
+ ![Screenshot 2024-02-22 204229](https://github.com/22922511/flex_all_property_using_card/assets/146309666/b8b62881-6ef5-4be4-8d97-3e8d046361c4)
